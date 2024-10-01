@@ -37,7 +37,7 @@ In the retreat phase, the robot gradually moves away from the cow. The cow's pos
 
 ### Video Demonstration
 
-[![Animal-Robot Interaction Video](media/video-thumbnail.png)](media/video.mp4)
+[![Animal-Robot Interaction Video](media/video-thumbnail.png)](media/ICRA_upload.mp4)
 
 Click the image above to watch the full video, showcasing the experiment and the pose estimation model in action. The video highlights the multimodal data streams (RGB and depth) and the detailed labeling of cow and robot joints in real-time.
 
